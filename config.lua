@@ -6,7 +6,7 @@ Config = {
 	WineAmount = {min = 6, max = 10},
 	wineTimer = 180,
 	Vineyard = {
-		start ={
+		start = {
 			coords = vector3(-1928.81, 2059.53, 140.84),
 			zones = {
 				vector2(-1926.19, 2059.13),
